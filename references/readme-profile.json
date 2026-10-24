@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 275｜Naive Badge: keeps the photo and reduces its most recognisable subject to one small handmade badge — rounded, slightly clumsy, not quite symmetrical shapes with natural hand-drawn outlines and a few colour blocks, in matte gouache, coloured pencil, wax pastel and dry-brush pigment on fibrous paper — in a soft, low-key palette of warm off-white, misty blue, grey-green, gentle red, pale yellow and ochre drawn from the photo, set small in generous whitespace with a tiny stamp-like or handwritten label. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-275 or asks for a naive folk badge, handmade gouache icon or picture-book style mark from a photo.",
+  "short_description": "朴拙徽章：把照片主体收成一枚圆润略笨、带水粉蜡笔颗粒的手工小徽章",
+  "zh-CN": {
+    "name": "朴拙徽章",
+    "tagline": "把照片主体收成一枚圆润、略笨、像印在旧绘本里的手工小徽章。",
+    "look": "原照片保留；主体被简化成圆润、略笨拙、不完全对称的形体，手绘轮廓粗细自然，配少量色块和一两处关键细节。用哑光水粉、彩铅、蜡笔和干刷颜料上色，留着纸纤维、颗粒、轻微掉色和不均匀覆盖。颜色从照片里取，调成暖米白、雾蓝、灰绿、柔和红、浅黄、赭石这样低刺激的有限色。徽章小，留白大，旁边一行细小的字像印章或收藏标签。",
+    "traits": ["稚拙图标", "水粉纸感", "手工徽章", "低刺激色", "记忆符号"],
+    "good": [
+      "主体简单、能概括成圆润形状的照片：一只小狗、一个茶杯、一盆仙人掌",
+      "有一个代表性动作或关系的瞬间：抱着花的人、晒太阳的猫、骑车的孩子",
+      "想做成私人徽章、手账贴纸或小店标志的日常照片"
+    ],
+    "poor": [
+      "需要鲜艳高饱和颜色的照片或用途，颜色会被调柔、调淡",
+      "结构复杂、细节密集的对象：机械、乐器内部、密集建筑群",
+      "想要标准图标系统、光滑矢量或过度可爱化效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Naive Badge",
+    "tagline": "Turns the subject of your photo into one small, rounded, slightly clumsy handmade badge.",
+    "look": "Your photo stays; the subject is simplified into rounded, slightly awkward, not-quite-symmetrical shapes with natural hand-drawn outlines, a few colour blocks and one or two telling details. It is coloured in matte gouache, coloured pencil, wax pastel and dry-brush pigment, leaving paper fibres, grain, light fading and uneven coverage. Colours come from the photo and are softened into a small, gentle palette of warm off-white, misty blue, grey-green, muted red, pale yellow and ochre. The badge is small in generous whitespace, with a line of tiny lettering like a stamp or collector's label.",
+    "traits": ["Naive icon", "Gouache on paper", "Handmade badge", "Low-key colour", "Memory symbol"],
+    "good": [
+      "Simple subjects that reduce to rounded shapes: a puppy, a teacup, a potted cactus",
+      "Moments with one telling action or relationship: someone holding flowers, a cat sunbathing, a child on a bike",
+      "Everyday photos you want as a personal badge, journal sticker or small-shop logo"
+    ],
+    "poor": [
+      "Photos or uses that need vivid, saturated colour, since colours are softened",
+      "Complex, detail-dense subjects: machinery, the inside of an instrument, packed city blocks",
+      "Requests for a standard icon set, smooth vectors or an overly cute look"
+    ]
+  },
+  "ja": {
+    "name": "素朴なバッジ",
+    "tagline": "写真の主役を、丸くて少し不器用な手作りの小さなバッジにします。",
+    "look": "元の写真は残し、主役は丸みがあって少し不器用で、左右が完全には揃わない形に簡略化します。手描きの輪郭は太さが自然に揺れ、色面は少なく、決め手になる細部をひとつふたつだけ残します。マットなガッシュ、色鉛筆、クレヨン、ドライブラシの顔料で塗り、紙の繊維、粒子、軽い色落ち、むらのある塗りを残します。色は写真から取り、生成り、霧のような青、灰緑、柔らかな赤、淡い黄、黄土といった穏やかな少数色にまとめます。バッジは小さく余白は大きく、はんこやコレクションラベルのような小さな文字が一行添えられます。",
+    "traits": ["素朴なアイコン", "ガッシュと紙", "手作りバッジ", "穏やかな色", "記憶の記号"],
+    "good": [
+      "丸い形にまとめやすい単純な主役：子犬、ティーカップ、サボテンの鉢",
+      "決め手になる動作や関係がある瞬間：花を抱えた人、日なたぼっこの猫、自転車の子ども",
+      "個人のバッジ、手帳のシール、小さなお店のロゴにしたい日常写真"
+    ],
+    "poor": [
+      "鮮やかで彩度の高い色が必要な写真や用途（色は柔らかく抑えられます）",
+      "構造が複雑で細部が多い対象：機械、楽器の内部、密集した建物",
+      "標準的なアイコンセット、なめらかなベクター、かわいさ過多の仕上がりを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "소박한 배지",
+    "tagline": "사진 속 주인공을 둥글고 조금 서툰 손으로 만든 작은 배지로 바꿉니다.",
+    "look": "원본 사진은 남기고, 주인공을 둥글고 약간 어설프며 좌우가 완전히 같지 않은 형태로 단순화합니다. 손그림 윤곽은 굵기가 자연스럽게 변하고, 색면은 적게, 결정적인 디테일은 한두 개만 남깁니다. 무광 과슈, 색연필, 크레용, 드라이 브러시 안료로 칠해 종이 섬유와 입자, 살짝 바랜 색, 고르지 않은 칠을 남깁니다. 색은 사진에서 가져와 따뜻한 미색, 안개 낀 파랑, 회녹색, 부드러운 빨강, 연노랑, 황토 같은 순한 몇 가지 색으로 정리합니다. 배지는 작고 여백은 넓으며, 도장이나 수집 라벨 같은 작은 글자가 한 줄 붙습니다.",
+    "traits": ["서툰 아이콘", "과슈와 종이", "수제 배지", "순한 색", "기억의 심벌"],
+    "good": [
+      "둥근 형태로 줄이기 쉬운 단순한 주인공: 강아지, 찻잔, 선인장 화분",
+      "결정적인 동작이나 관계가 있는 순간: 꽃을 안은 사람, 햇볕 쬐는 고양이, 자전거 타는 아이",
+      "개인 배지, 다이어리 스티커, 작은 가게 로고로 쓰고 싶은 일상 사진"
+    ],
+    "poor": [
+      "선명하고 채도 높은 색이 필요한 사진이나 용도(색이 부드럽게 눌립니다)",
+      "구조가 복잡하고 디테일이 빽빽한 대상: 기계, 악기 내부, 밀집한 건물",
+      "표준 아이콘 세트, 매끈한 벡터, 지나치게 귀여운 느낌을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "الشارة الساذجة",
+    "tagline": "يحوّل العنصر الرئيسي في صورتك إلى شارة صغيرة مصنوعة باليد، مستديرة وفيها شيء من الخرق.",
+    "look": "تبقى صورتك، ويُبسَّط العنصر إلى أشكال مستديرة فيها شيء من الخرق وعدم التماثل، بخطوط خارجية يدوية يتفاوت سمكها طبيعياً، وبقع لونية قليلة وتفصيلة أو اثنتين تدلّان عليه. يُلوَّن بالغواش المطفي والأقلام الملوّنة وأقلام الشمع والصبغة بالفرشاة الجافة، مع ألياف الورق وحبيباته وبهتان خفيف وتغطية غير متساوية. تُؤخذ الألوان من الصورة وتُهدَّأ في لوحة صغيرة من الأبيض المائل للبيج والأزرق الضبابي والأخضر الرمادي والأحمر الهادئ والأصفر الفاتح والمغرة. الشارة صغيرة وسط فراغ واسع، ومعها سطر من حروف صغيرة كأنه ختم أو بطاقة مقتنيات.",
+    "traits": ["أيقونة ساذجة", "غواش على ورق", "شارة يدوية", "ألوان هادئة", "رمز للذكرى"],
+    "good": [
+      "عناصر بسيطة تُختصر في أشكال مستديرة: جرو، فنجان شاي، أصيص صبّار",
+      "لحظات فيها حركة أو علاقة واحدة دالة: شخص يحمل باقة زهور، قطة تتشمس، طفل على دراجة",
+      "صور يومية تريدها شارة خاصة أو ملصقاً لدفتر يوميات أو شعاراً لمتجر صغير"
+    ],
+    "poor": [
+      "صور أو استخدامات تحتاج ألواناً زاهية مشبعة، لأن الألوان تُهدَّأ",
+      "عناصر معقدة كثيفة التفاصيل: الآلات، داخل آلة موسيقية، كتل المباني المتلاصقة",
+      "طلب مجموعة أيقونات قياسية أو رسوم متجهية ناعمة أو مظهر مفرط في اللطافة"
+    ]
+  }
+}

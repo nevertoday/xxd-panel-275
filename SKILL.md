@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-275
-description: "Create XXD Panel 275 raster artwork: a faithful photograph paired with one small naive handmade badge, gouache and pastel grain on warm paper. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-275 or asks for this 朴拙徽章 style."
+description: "XXD Panel 275｜Naive Badge: keeps the photo and reduces its most recognisable subject to one small handmade badge — rounded, slightly clumsy, not quite symmetrical shapes with natural hand-drawn outlines and a few colour blocks, in matte gouache, coloured pencil, wax pastel and dry-brush pigment on fibrous paper — in a soft, low-key palette of warm off-white, misty blue, grey-green, gentle red, pale yellow and ochre drawn from the photo, set small in generous whitespace with a tiny stamp-like or handwritten label. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-275 or asks for a naive folk badge, handmade gouache icon or picture-book style mark from a photo."
 ---
 
 # XXD Panel 275
